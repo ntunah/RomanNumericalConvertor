@@ -12,7 +12,7 @@ Normal if i work on local i use the following steps.
 5. git add .
 6. git status
 7. git commit -m "First commit"
-8. git remote add origin git@github.com:ntunah/rfgerfver.git
+8. git remote add origin https://github.com/ntunah/RomanNumericalConvertor.git
 9. git push -u origin main
 10. enter username and password
 
