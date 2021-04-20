@@ -29,7 +29,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Roman Numeral Convertor</h1>
+      <h1>Numeral Convertor</h1>
       Enter number/roman <input value={numeric} onChange={handleChage} />
       <p> {romanNumeral}</p>
     </div>
