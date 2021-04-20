@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-h9gxht)
 
-I used a online editor to deploy this code , allyou have to do is link your github acount with their website the press commit button to push latest changes
+I used a online editor from https://stackblitz.com/ to deploy this code , all you have to do is link your github acount with their website the press commit button to push latest changes
 
 Normal if i work on local i use the following steps.
 1. Create an new repository on github
